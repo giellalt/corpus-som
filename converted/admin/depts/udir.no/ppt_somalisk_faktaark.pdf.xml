@@ -1,0 +1,81 @@
+<document xml:lang="som" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>766</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="som"/>
+    </multilingual>
+    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_somalisk_faktaark.pdf</origFileName>
+    <parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/>
+    <parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/>
+    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/>
+    <parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/>
+    <parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/>
+    <parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/>
+    <parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/>
+    <parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/>
+    <parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/>
+    <parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/>
+    <parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/>
+    <parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/>
+    <parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/>
+    <parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/>
+    <parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob"><em type="bold">Xog ku saabsan wakaalada adeega barbaarinta nafsiga </em></p>
+    <p xml:lang="nob"><em type="bold">Wakaalada adeega barbaarinta nafsiga (pp-tjenesten) </em></p>
+    <p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga waxaa intabaddan loo soo gaabiyaa xarfaha PPT ama pp-tjenesten. Waa wakaalad degmo ama gobbol, oo ka shaqeysa wacyigallin. Waxey caawineysaa caruurta, dhalinyarada iyo dadka waaweyn, ee ey ku addagtahay akhoon korosiga ama tagga goob waxbarasho oo ku addag.</p>
+    <p xml:lang="nob">Adeega wakaalada barbaarinta nafsiga waa tallo siin iyo haggida goobo ey ka midyihiin xanaanada caruurta iyo iskuulka, si,ey ilmaha/ardayga ugu diyaariyaan waxey u baahanyihiin ee ku haboon.</p>
+    <p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxey ka caawineysaa iskuulka, si ardayda u baahan waxbarasho qaas ah ey u siiyaan waxbarasho ku haboon.</p>
+    <p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxaa qabta sharciga ah waxaad u sheegto iney u xafidayaan si sir ah. Xogta ku saabsan ilmaha/ardayga lama shaacinayo, oo mana loo gudbinayo meelkale waalidkoon ogolaan. Xogta ku saabsan ilmaha/ardayga waxaa loo xafidayaa si gaar ah, oo waxaa sidaas qoraya qanuunka xafidida xogta la ururiyo.</p>
+    <p xml:lang="nob"><em type="bold">Maxey qabataa</em> wakaalada adeega barbaarinta nafsiga (pp-tjenesten)? </p>
+    <p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga waxey bixisaa adeegyo iyo la tallin iyo haggid ku saabsan caruurta, dhallinyarada iyo dadka waaweyn oo ey dhibaan arimaha la xiriira</p>
+    <p type="listitem" xml:lang="nob">•  Afka iyo haddalka</p>
+    <p type="listitem" xml:lang="nob">•  Guud ahaan waxbarashada ama maadooyinka oo ku addag</p>
+    <p type="listitem" xml:lang="nob">•  Akhriska iyo qoraalka oo ku addag</p>
+    <p type="listitem" xml:lang="nob">•  Xisaabtoo ku addag</p>
+    <p type="listitem" xml:lang="nob">•  Feejignaanta oo ku addag</p>
+    <p type="listitem" xml:lang="nob">•  Is dhexgalka oo ku addag</p>
+    <p type="listitem" xml:lang="nob">•  Sidda loo dhaqmo oo ku addag</p>
+    <p type="listitem" xml:lang="nob">•  Araga iyo maqalka oo ku addag</p>
+    <p xml:lang="nob"><em type="bold">Sidee waalidiinta olla soo xiriirikaraan</em> Wakaalada adeega barbaarinta nafsiga(pp</p>
+    <p xml:lang="nob">tjenesten)?</p>
+    <p xml:lang="nob">Ka hor intaadan lasoo xiriirin wakaalada adeega barbaarinta nafsiga(pp-tjenesten), waa inaad la haddashaa rugta kalkaalisada caafimaadka/xanaanada caruurta/iskuulka, kalla haddal walwalkaaga ku saabsan ilmahaaga. Ardayga ka weyn 15jir wuu la soo xiriirikaraa wakaalada adeega barbaarinta nafsiga(pp-tjenesten). Wakaalada waxey xitaa wax u qabaneysaa dadka waaweyn, ee doonaya iney qaataan waxbarashada dugsiga hoose dhexe.</p>
+    <p xml:lang="nob">Hadey tahay shakhsi iyo goobaha u adeega bulshada(xanaanada caruurta, iskuulka iyo kuwa kaleba, waxey ayagoon is sheegin olla soo xiriirikaraan, oo ey weydiisankaraan tallo wakaalada adeega barbaarinta nafsiga(pp-tjenesten).</p>
+    <p xml:lang="nob">Hadii looga baahdo kaalmo wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxaa ilmaha/ardayga loo soo gudbinkaraa wakaalada adeega barbaarinta nafsiga(pp-tjenesten). Soo gudbinta waxaa sida caadiga loo sameeyaa ayadoo la buuxinayo araajida loogu talagalay soo gudbinta, fiiri shabakada degmadaada/gobolkaaga. La xiriir xanaanada caruurta/iskuulka, si lagaaga caawiyo buuxinta araajida gudbinta.</p>
+    <p xml:lang="nob">Meelaha kale ee arin u soo gudbinkara wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waa:</p>
+    <p type="listitem" xml:lang="nob">•  Xanaanada caruurta, iskuulka iyo goobaha waxbarasho ee dadka waaweyn</p>
+    <p type="listitem" xml:lang="nob">•  Rugta kalkaalisada caafimaadka iyo cisbitaalka, kadib markey waalidiinta u fasaxaan, taas waa marka ilmuhu ka yaryahay 15jir.</p>
+    <p xml:lang="nob">Ardayga iyo waalidka waxey iskuulka ku amrikaraan inuu sameeyo baarida loo baahanyahay, si loo ogaado inuu ardayga u baahanyahay waxbarrid qaas u ah, iyo hadey taa jirto waxbarrid nocee ah ayuu ardayga u baahanyahay.</p>
+    <p xml:lang="nob"><em type="bold">Sidee bey u shaqeysaa</em> wakaalada adeega barbaarinta nafsiga(pp-tjenesten)? </p>
+    <p xml:lang="nob">Wakaalada adeega barbaarinta(pp-tjenesten) goobaha ey la shaqeyso waxaa kamid ah xanaanada caruurta iyo iskuulka, si loogu gogolxaaro waxqabad ku saleysan aragtida dheer iyo baahida ilmaha/ardayga. Sida wakaalada adeega barbaarinta nafsiga ey arin wax oga qabato waxaa loo qeybinkaraa sedex derajo.</p>
+    <p xml:lang="nob">1. <em type="italic">In la baaro</em> </p>
+    <p xml:lang="nob">Marka wakaalada adeega barbaarinta(pp-tjenesten) ey soo gaarto fariinn/arin loo soo gudbiyay, waxaa caadi ah iney dhageysato waalidiinta caawinta ey  rabaan, ayadoo lalla shaqeynayo xanaanada caruurta iyo iskuulka. Si waddahadal/wareysi, u kuurgallid iyo intixaamid ey ku jirto ayey wakaalada adeega barbaarinta nafsiga olla soo baxeysaa sida ugu macquulsan sawirka saxda ah, oo dhameystiran, kuna saabsan nooca ey tahay aragtida dheer iyo baahida ilmaha/ardayga.</p>
+    <p xml:lang="nob">Howshan waxey ka dhaceysaa goobta xanaanada caruurta, iskuulka, ama goobaha ey wakaalada adeega barbaarinta nafsiga(pp-tjenesten) ey xafiisyada ku leedahay.</p>
+    <p xml:lang="nob"> <em type="italic">Qaddarin/tallo ku saleysan takhasus</em>. </p>
+    <p xml:lang="nob">Kaddib markii la ogaado sida ey xaaladu tahay, ayey wakaalada adeega barbaarinta nafsiga(pp-tjenesten) sameyneysaa qaddarin ku saleysan takhasus(war qoraal) iyo tallo, si xanaaada caruurta ama goobta waxbarasho ey u gogolxaaraan ayagoo ka fakiraya ilmaha/ardayga aragtidiisa dheer. Wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxey bixineysaa tallo ku saleysan takhasus. adeegyada ugu baddan  ee caadiga ah, oo leysku dayo in la qaddariyo waa barbaarinta qaaska ah, oo loogu tallagalay caruurta da,da iskuulka aan gaarin, iyo waxbarasho qaas ah oo la siiyo ardayga.</p>
+    <p xml:lang="nob"> <em type="italic">dabagalka/la,socodka </em></p>
+    <p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxey si,ey olla socoto siineysaa  tallo iyo haggid waalidka, shaqaalaha xanaanada caruurta iyo macalimiinta iskuulka. Wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxey arday kasta la yeelankartaa waddahadal kaalmo ah, waxey kaloo qaddarinayaan hadii lacalla loo baahdo in la sii gudbiyo.</p>
+    <p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga(pp-tjeneste) waxey ku shaqeysaa sharciga waxbarashada, oo ey kamidyihiin qoddobadaan soo socda:</p>
+    <p xml:lang="nob"><em type="italic">§  Qoddobka 5aad ilaa 1aad. Xuquuqda waxbarida qaaska ah </em></p>
+    <p xml:lang="nob"><em type="italic">§ Qoddobka 5aad ilaa 3aad. Qaddarin takhasus leh </em></p>
+    <p xml:lang="nob"><em type="italic">§ Qoddobka 5aad ilaa 4aad. ka shaqeynta arinta la xiriirta go,aanka la xiriira waxbarida qaaska  </em></p>
+    <p xml:lang="nob"><em type="italic">§ Qoddobka 5aad ilaa 6aad. Adeega barbaarinta nafsiga </em></p>
+    <p xml:lang="nob"><em type="italic">§ Qoddobka 5aad ilaa 7aad. Kaalmo barbaarin oo qaas ah, kahor da,da iskuulka </em></p>
+  </body>
+</document>
