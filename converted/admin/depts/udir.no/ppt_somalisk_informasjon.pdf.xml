@@ -1,85 +1,88 @@
-<document xml:lang="som" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1645</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="som"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_somalisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Adeega barbaarinta nafsiga</p>
-<p xml:lang="nob">Adeega barbaarinta nafsiga oo marka lasoo gaabiyo loo yaqaan (pp-tjeneste) waa wakaalad la tallin oo takhasuskeedu yahay horumarinta akhoon korosiga iyo faraxsanaanta ilmaha aan iskuulka bilaabin iyo ardayda waxbarashada  dugsiga hoose dhexe iyo dugsiga sare. Wakaalada adeega barbaarinta nafsiga waxey caawisaa xitaa dadka waaweyn ee rabba waxbarashada dugsiga hoose dhexe. Shaqada  wakaalada adeega barbaarinta nafsiga waxaa dhigaya sharciga waxbarashada. Wakaalada adeega barbaarinta nafsiga waxey waxtar xirfadeysay u tahay xanaanadaha caruurta/iskuulada si ey usiiyaan caruurta iyo ardayda u baahan waxbarasho qaasa oo ku haboon.</p>
-<p xml:lang="nob"><em type="bold">Adeega barbaarinta nafsiga(pp-tjenesten) </em></p>
-<p type="listitem" xml:lang="nob">•  Waxaa kamid ah waxyaalahey xanaanadaha caruurta iyo iskuulada  u qabato, waano iyo haggid la siiyo xubnaha hogaanka barbaarinta goobta tacliinta.</p>
-<p type="listitem" xml:lang="nob">•  Waxey ka caawineysaa iskuulada aqoonta iyo abaabulka horumarka</p>
-<p type="listitem" xml:lang="nob">•  Waxey xaqiijineysaa in la sameeyo qadddarin ku saleysan takhasus, sida uu sharciga waxbarashada dhigayo, waxeyna siineysaa xanaanadaha caruurta iyo iskuulada tallo iyo haggid ku saabsan sidii loo siinlahaa caruurta iyo ardayda waxbarashada ku haboon oo ey u baahayihiin.</p>
-<p type="listitem" xml:lang="nob">•  Waa adeeg shrciga uu ku amrayo degmooyinka, oo ku qoran sharciga waxbarashada qodobkiisa 5 aad ilaa ka 6 aad. Waxqabadkan waxaaa abaabulkeeda sameynaya degmooyinka dhexdooda. Degmooyinka iyo gobolada waxqabadkooda waa iskumid.</p>
-<p type="listitem" xml:lang="nob">•  Waxaa qabta sharciga ah iney waxii xog ah oo ey ogaadaan ey u xafidaan si sir ah. Xog kasta oo la soo uruuriyo, waa in lagu keydiyaa meel u gaar ah, ayadoo la raacayo qeynuunka keydinta xogta la uruuriyo.</p>
-<p type="listitem" xml:lang="nob">•  Waa goob ey gobolada iyo degmooyinka ka tallo qaadanayaan markey quseyso xuquuqaha uu dhigayo sharciga waxbarashada.</p>
-<p xml:lang="nob">Degmooyinka iyo gobolada waxey ka tallo qaadanayaan wakaalada adeega barbaarinta nafsiga(pp-tjenesten) marka ey quseyso kiisaska</p>
-<p type="listitem" xml:lang="nob">•  Caawin barbaarin oo qaas ah, ka hor intuun ilmaha iskuulka bilaabin waxaa dhigaya sharciga qodobadiisa kala ah (5 aad ilaa 7 aad) •  Waxbarasho qaas ah oo uu iskuulka siiyo ardayga waxaa dhigaya sharciga qodobadiisa kala ah (5 aad ilaa 1 aad). Dadka  waaweyn ee u baahan waxbarashada dugsiga hoose dhexe waxaa dhigaya qodobada kala ah (4 aad xarafka a ilaa 2 aad).</p>
-<p type="listitem" xml:lang="nob">•  Soo hormarinta bilowga iskuulka waxaa dhigaya qodobada kala ah(§2 aad ilaa 1 aad xubintiisa 3 aad).</p>
-<p type="listitem" xml:lang="nob">•  Dib u dhigida bilowga iskuulka waxaa dhigaya qodobada kala ah(§2aad ilaa 1aad xubintiisa 3aad).</p>
-<p type="listitem" xml:lang="nob">•  Ka qaadista waajibka waxbarashada waxaa dhigaya qodobada kala ah(§ 2aad ilaa 1aad xubintiisa 4aad)</p>
-<p type="listitem" xml:lang="nob">•  In loo dhigo afka dhagoolayaasha iskuulka kahor iyo xiliga dugsiga hoose dhexeba waxaa dhigaya qodobada kala ah (§2 aad ilaa 6 aad). Dugsiga sarena waxaa dhigaya qodobada kala ah (§3 aad ilaa 9 aad</p>
-<p type="listitem" xml:lang="nob">•  Barrida farta indhoolayaasha xiliga dugsiga hoose dhexe waxaa dhigaya qodobada kala ah (§2 aad ilaa 14 aad). Dugsiga sarena waxaa dhigaya qodobada kala ah (§3aad ilaa 10 aad).</p>
-<p type="listitem" xml:lang="nob">•  Usoo gallida dugsiga sare  si ka duwan sida caadiga ah waxaa dhigaya qodobka (§1 aad xubbintiisa 6 aad).</p>
-<p type="listitem" xml:lang="nob">•  Wakhti u kordhinta dugsiga sare waxaa dhigaya qodobada kala ah (§3aad ilaa 1aad xubbintiisa 5 aad.</p>
-<p xml:lang="nob"><em type="bold">Shaqada </em></p>
-<p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga (pp-tjenesten) waxey wax ka qabataa, oo ey bixisaa tallo iyo haggid ku saabsan ilmaha, dhalinyarada iyo dadka waaweyn ey ku addagtahay dhibkana kasoo gaaro aqoon korarsiga. Tusaale dhibka soo gaara waa.</p>
-<p type="listitem" xml:lang="nob">•  Luuqada iyo haddalka oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Maadooyinka iyo guud ahaan aqoon korarsiga oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Akhriska iyo qoraalka oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Xisaabta oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Af ka haddalka waxaan aheyn oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Feejignaanta oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Dhexgalka iyo dareenka oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Hab dhaqanka oo ku addag</p>
-<p type="listitem" xml:lang="nob">•  Araga iyo maqalka oo ku addag</p>
-<p xml:lang="nob"><em type="bold">Xiriirka </em></p>
-<p xml:lang="nob">Ardayda dhaaftay 15 jir iyo waalidka, xanaanada caruurta, iskuulka iyo goobahakale, sida kalkaalisada caafimaadka ayaa lasoo xiriirikara oo weydiisankara tallo wakaalada adeega barbaarinta nafsiga (pp-tjenesten) hadii ey jiraan walwal laga qabbo ilmaha horumarkiisa ama aqoon korarsigiisa, waxaa lagala hadlikaraa wakaalada adeega barbaarinta nafsiga (pptjenesten) si qarsoon kahor intaan kiiska loo soo gudbin si caadi ah.</p>
-<p xml:lang="nob"><em type="bold">Soo gudbinta </em></p>
-<p xml:lang="nob">Ka hor intuun kiiska soo gaarin wakaalada adeega barbaarinta nafsiga (pp-tjenesten), waa in la eegaa in iskuulkau uu tijaabiyay waxey qabankareen awoodooda. Marka ey quseyso ilmo aan gaarin xiligii iskuulka, waxaa la qadarinayaa baahida ilmaha si ka madaxbanaan waxa xanaanada caruurta ey qabatay.</p>
-<p xml:lang="nob">Arinta waxaa loo gudbin karaa wakaalada adeega barbaarinta nafsiga(pp-tjenesten), si,ey wax oga qabato, oo ey u qadariso hadii</p>
-<p type="listitem" xml:lang="nob">•  Waalidka, xanaanada caruurta ama iskuulka ey ka walwalsanyihiin in ilmaha uu horumar u sameyneynin sidii laga rabay da,a ahaan.</p>
-<p type="listitem" xml:lang="nob">•  Shaki ka jiro in ardaygu uusan wax ka faa,iideyn waxbarida</p>
-<p xml:lang="nob">Ardayga ama waalidka waxey iskuulka ku amrayaan inuu sameeyo baaritaanka loo baahanyahay si loo ogaado in ardaygu u baahanyahay in si qaas ah wax loo barro, iyo waxbarasho noocee ah uu ardayga u baahanyahay.</p>
-<p xml:lang="nob">Macalimiinta</p>
-<p type="listitem" xml:lang="nob">•  Waxey qadarinayaan in ardaygu u baahanyahay waxbarid qaas ah</p>
-<p type="listitem" xml:lang="nob">•  Waxey la socodsiinayaan maamulaha iskuulka marka baahidaas jirto</p>
-<p xml:lang="nob">U gudbinta wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waa iney ka wadda shaqeeyaan xanaanada caruurta, iskuulka iyo waalidka. Waalidiinta iyo ardayga ka weyn (15 jir) waa iney ayagu ogoladaan u gudbinta wakaalada barbaarinta nafsiga (pp-tjenesten).</p>
-<p xml:lang="nob">Waa degmada/ gobolka kuwa go,aaminaya qaanuunada iyo wadada loo maray sida xanaanada caruurta/iskuulka ey ilmo ama arday ugu soo gudbinayaan wakaalada adeega barbaarinta nafsiga(pp-tjenesten). Sida caadiga ah waa in la buuxiyaa araajida gudbinta.</p>
-<p xml:lang="nob">Xanaanada caruuta/iskuulka waxey araajida ku lifaaqayaan warka ku saabsan barbaarinta nafsiga, oo tilmaamaya ilmaha/ardayga horumarkiisa, iyo waxqabad noocee ah ayaa leyskudayay.</p>
-<p xml:lang="nob">Waxii xog ah eek u saabsan gudbinta waxaad la xiriirikartaa degmada (xanaanada caruurta ama dugsiga hoose dhexe) ama gobolka kala xiriir (dugsiga sare.</p>
-<p xml:lang="nob"><em type="bold">Ka shaqeynta arinta </em></p>
-<p xml:lang="nob"><em type="bold">Baarista </em></p>
-<p xml:lang="nob">Marka wakaalada adeega barbaarinta nafsiga(pp-tjenesten) uu soo gaaro kiiska loo soo gudbiyay, waxaa caadi ah in cadeeyo waxa waalidka, iyadoo lagalla shaqeeynayo xanaanada caruurta ama iskuulka ey rabaan in laga caawiyo. Kiisaska intooda baddan waxey xambaarsanyihiin rabitaan ah in ey wakaalaga adeega barbaarinta nafsiga(pp-tjenesten) ey u sameyso qaddarin ku saleysan takhasuskooda, oo ku saabsan baarid iyo tallo.</p>
-<p xml:lang="nob">Baaritaanka wuxuu ka koobnaan karaa</p>
-<p type="listitem" xml:lang="nob">•  Im la hello waxa jirra iyo caawin ka imaneysa xanaanada cariirta ama iskuulka</p>
-<p type="listitem" xml:lang="nob">•  Goobaha adeega bulshada ee kale waxey soo gudbiyeen, wadahaddal, u kuurgallid iyo ilmaha/ardayga oo la intixaamo</p>
-<p xml:lang="nob">Ilmaha aan gaarin xilliga iskuulka, waxaa baarista lalla xiriirinayaa baahida ilmaha</p>
-<p xml:lang="nob">Aradayga dhigta iskuulka waxaa baaristu ku saabsanaandoontaa ardayga aragtidiisa dheer ee aqoon korarsi iyo fursada iskuulka si uu u siinlahaa waxbarasho ku haboon ardayga, oo qey ka ah waxbarashada caadiga ah ee la hayo.</p>
-<p xml:lang="nob"><em type="bold">La tallinta </em></p>
-<p xml:lang="nob">Baarista la sameeyay awgeed ayeey wakaalada adeega barbaarinta(pp-tjenesten) waxey soo gudbineysaa tallo qoraal ah, loo qaddariyay si takhasus leh ee lagu sameeyay baahiyooyinka qaaska ee ilmaha/ardayga.</p>
-<p xml:lang="nob">Qaddarinta waxey</p>
-<p type="listitem" xml:lang="nob">•  Muujineysaa in ilmaha/ardayga uu u baahanyahay barbarian qaas ah, taas oo uu dhigayo sharciga  waxbarashada, qoddobada kala ah §5aad ilaa 7aad, ama kan waxbaridda qaaska ah qoddobada §5aad ilaa 1aad</p>
-<p type="listitem" xml:lang="nob">•  Tallo siin ku saabsan caawin noocee ah iyo waxbarrid eyeey tahay in la siiyo.</p>
-<p xml:lang="nob">Hadii ilmuhu xaq u leeyahay barbarian qaas ah, oo caawisa sharciga suu dhigayo, qoddobada §5aad ilaa 7aad, la tallinta waalidkana waxey qeyb ka tahay adeega la hayo.</p>
-<p xml:lang="nob">Ilmaha aan gaarin da,da waajibaadka waxbarasho, waxey tallada qoraalka ah ey  qortay wakaalada adeega barbaarinta nafsiga(pp-tjeneste) ka koobnaaneysaa</p>
-<p type="listitem" xml:lang="nob">•  Barbaarin gaara oo noocee ah ayaa ilmaha u sahleysa inuu u horumaro si,ey masuuliyad ku jirto</p>
-<p type="listitem" xml:lang="nob">•  Ujeedo suurogallinkarta horumarka iyo aqoon korarsiga ilmaha</p>
-<p xml:lang="nob">Ardayda dhigata iskuulka, waxey tallada qoraalka ah eek a timid wakaalada adeega barbaarinta nafsiga(pp-tjeneste) ka koobnaaneysaa qaddarinta ah</p>
-<p type="listitem" xml:lang="nob">•  In ardayga laga caawinkaro waxyaabaha ku addag ee qeybta ka ah waxbarashada caadiga ah ee la siiyo</p>
-<p type="listitem" xml:lang="nob">•  Waxbarasho noocee ah ayaa keeneysa fursad waxbarasho oo masuul ah</p>
-<p type="listitem" xml:lang="nob">•  Maxaa ka suurigalla u jeedada waxbarasho ee ardayga</p>
-<p xml:lang="nob">Wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxey la tashataa ardayga iyo/ama waalidka howsha qaddarinta takhasuska ah, waxeyna culeyska saareysaa sidey ayagu wax u arkaan.</p>
-<p xml:lang="nob">Marka qaddarinta takhasuska leh(baaritaanka iyo tallada) ey diyaar yihiin, waxey waalidiinta</p>
-<p type="listitem" xml:lang="nob">•  Ilmaha aan gaarin da,da waajibaadka waxbarasho ey u fasaxaan degmada/milkiilaha xanaanada caruurta in qaddarinta takhasuska ah gundhig looga dhigo si go,aan loo gaaro, iyo fasixid si degmada/milkiilaha xanaanada caruurta ey u bilaabaan caawinta wakaalada adeega barbaarinta nafsiga(pp-tjenesten) ey kulla talisay</p>
-<p type="listitem" xml:lang="nob">•  Aradayda iskuulka ama(ardayda ka weyn 15jir) ey u fasaxaan milkiilaha iskuulka/iskuulka wuxuu  qaddarinta takhasuska ah ka dhigayaa gundhig si go,aan loo gaaro, iyo in loo fasaxo milkiilaha iskuulka/iskuulkana u bilaabaan caawinta wakaalada adeega barbaarinta nafsiga(pp-tjenesten) ey kulla talisay</p>
-<p xml:lang="nob"><em type="bold">Barbaarinta dowliga ah  </em></p>
-<p xml:lang="nob">Hadii loo baahdo waxey wakaalada adeega barbaarinta(pp-tjenesten) barbaarinta dowliga ah ka codsankartaa barbaariye qaasa oo dowli ah.</p>
-<p xml:lang="nob">Barbaarinta dowliga ah</p>
-<p type="listitem" xml:lang="nob">•  Waxey taageertaa si ilmaha, dhallinyarada iyo dadka waaweyn ee qabba baahi waxbarasho oo qaas ah ey u helaan adeeg fiican waafakhsana sharciga waxbarashada, si,ey u noqdaan ka qeybqaatayaal firfircoon xagga tacliinta, shaqadda iyo bulshadda</p>
-<p type="listitem" xml:lang="nob">•  Horumarisaa tayadda iyo soo gudbinta aqoonta ku saabsan waxbaridda qaaska ah, iyo sinaan, u diyaarin waxbarasho soo dhaweyn leh</p>
-<p type="listitem" xml:lang="nob">•  Waxey u taaganyihiin si loo soo saaro waxii barbarian qaasa maadooyinka dhanka maqalka, aragga, afka/haddalka, maskaxda oo dhaawac soo gaaro, adeyga aqoon korarsiga qeybo baddan leh iyo dhagoole indhool</p>
-<p type="listitem" xml:lang="nob">•  Aqoon u leedahay alaadaha waxbarasho ee caruurta, dhallinyarada iyo dadka waaweyn ey heyso baahihada waxbarasho ee qaaska ah</p>
-<p xml:lang="nob">Waxii xog dheeraad ah, f<em type="italic">iiri www.statped.no </em></p>
-<p xml:lang="nob"><em type="bold">Rugta waddanka ee waxbarashada dhaqamada baddan(NOFO) </em></p>
-<p xml:lang="nob">Ma sahlana marwalba in qaddarin lagu sameeyo waxa sababa adkaanshaha aqoon korarsiga marka laga hadlayo caruurta/ardayda leh luuqadaha laga tirro baddanyahay. Ma waxaa maqan fahanka luuqada,ahna dhibaatada ugu weyn, ama  ma waxaa jirra sababo kale oo adkeynaya aqoon kororsiga?</p>
-<p xml:lang="nob">Howsha rugta waddanka ee waxbarashada dhaqamada baddan waxaa kamid ah iney taageerto</p>
-<p type="listitem" xml:lang="nob">•  In siyaasada waxbarasho ee waddanka lagu shaqeeyo iyo in loo hirgaliyo si ilmaha, dhallinyarada iyo dadka waaweyn ey u helaan waxbarasho sinaan, tallagal, tayo iyo soo dhaweyn leysaga midyahay leh •  In la dhowro fikrada dhaqamada baddan xanaanada caruurta iyo waxbarashada asaasiga ah</p>
-<p type="listitem" xml:lang="nob">•  In kor loo qaado tayada waxbarasho kuwa leh luuqadaha laga tiro baddanyahay iyo ka shaqey sameeysa soo dhawey, dhaqamo baddan waxbarasho leysaga mid yahay xanaanada caruurta iyo waxbarashada asaasiga ah</p>
-<p xml:lang="nob">Macalimiinta, maamulayaasha iskuulka, xanaanada caruurta iyo milkiilayaasha iskuulka iyo shaqaalaha barbaarinta ee xanaanada caruurta waa udub dhexaadka howshan. Dhexda waxey ka koobnaandoontaa qeybta –UH/goob u adeegta tababarka macalinka si loo horumariyo tayada.</p>
-<p xml:lang="nob">Xog dheeraad ah, fiiri<em type="italic"> http://www.hioa.no/om-hioa/nafo </em></p>
+<document xml:lang="som" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1600</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="som"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_somalisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Adeega barbaarinta nafsiga</p>
+<p>Adeega barbaarinta nafsiga oo marka lasoo gaabiyo loo yaqaan (pp-tjeneste) waa wakaalad la tallin oo takhasuskeedu yahay horumarinta akhoon korosiga iyo faraxsanaanta ilmaha aan iskuulka bilaabin iyo ardayda waxbarashada dugsiga hoose dhexe iyo dugsiga sare.</p>
+<p>Wakaalada adeega barbaarinta nafsiga waxey caawisaa xitaa dadka waaweyn ee rabba waxbarashada dugsiga hoose dhexe. Shaqada wakaalada adeega barbaarinta nafsiga waxaa dhigaya sharciga waxbarashada. Wakaalada adeega barbaarinta nafsiga waxey waxtar xirfadeysay u tahay xanaanadaha caruurta/iskuulada si ey usiiyaan caruurta iyo ardayda u baahan waxbarasho qaasa oo ku haboon.</p>
+<p type="listitem">Adeega barbaarinta nafsiga(pp-tjenesten)</p>
+<p type="listitem">Waxaa kamid ah waxyaalahey xanaanadaha caruurta iyo iskuulada  u qabato, waano iyo haggid la siiyo xubnaha hogaanka barbaarinta goobta tacliinta.</p>
+<p type="listitem">Waxey ka caawineysaa iskuulada aqoonta iyo abaabulka horumarka</p>
+<p type="listitem">Waxey xaqiijineysaa in la sameeyo qadddarin ku saleysan takhasus, sida uu sharciga waxbarashada dhigayo, waxeyna siineysaa xanaanadaha caruurta iyo iskuulada tallo  iyo haggid ku saabsan sidii loo siinlahaa caruurta iyo ardayda waxbarashada ku  haboon oo ey u baahayihiin.</p>
+<p type="listitem">Waa adeeg shrciga uu ku amrayo degmooyinka, oo ku qoran sharciga waxbarashada qodobkiisa 5 aad ilaa ka 6 aad. Waxqabadkan waxaaa abaabulkeeda sameynaya  degmooyinka dhexdooda. Degmooyinka iyo gobolada waxqabadkooda waa iskumid.</p>
+<p type="listitem">Waxaa qabta sharciga ah iney waxii xog ah oo ey ogaadaan ey u xafidaan si sir ah. Xog kasta oo la soo uruuriyo, waa in lagu keydiyaa meel u gaar ah, ayadoo la raacayo  qeynuunka keydinta xogta la uruuriyo.</p>
+<p type="listitem">Waa goob ey gobolada iyo degmooyinka ka tallo qaadanayaan markey quseyso xuquuqaha uu dhigayo sharciga waxbarashada.</p>
+<p type="listitem">Degmooyinka iyo gobolada waxey ka tallo qaadanayaan wakaalada adeega  barbaarinta nafsiga(pp-tjenesten) marka ey quseyso kiisaska</p>
+<p type="listitem">Caawin barbaarin oo qaas ah, ka hor intuun ilmaha iskuulka bilaabin waxaa dhigaya sharciga qodobadiisa kala ah (5 aad ilaa 7 aad)</p>
+<p type="listitem">Waxbarasho qaas ah oo uu iskuulka siiyo ardayga waxaa dhigaya sharciga qodobadiisa kala ah (5 aad ilaa 1 aad). Dadka  waaweyn ee u baahan waxbarashada  dugsiga hoose dhexe waxaa dhigaya qodobada kala ah (4 aad xarafka a ilaa 2 aad).</p>
+<p type="listitem">Soo hormarinta bilowga iskuulka waxaa dhigaya qodobada kala ah(§2 aad ilaa 1 aad xubintiisa 3 aad).</p>
+<p type="listitem">Dib u dhigida bilowga iskuulka waxaa dhigaya qodobada kala ah(§2aad ilaa 1aad xubintiisa 3aad).</p>
+<p type="listitem">Ka qaadista waajibka waxbarashada waxaa dhigaya qodobada kala ah(§ 2aad ilaa 1aad xubintiisa 4aad)</p>
+<p type="listitem">In loo dhigo afka dhagoolayaasha iskuulka kahor iyo xiliga dugsiga hoose dhexeba waxaa dhigaya qodobada kala ah (§2 aad ilaa 6 aad). Dugsiga sarena waxaa dhigaya  qodobada kala ah (§3 aad ilaa 9 aad</p>
+<p type="listitem">Barrida farta indhoolayaasha xiliga dugsiga hoose dhexe waxaa dhigaya qodobada kala ah (§2 aad ilaa 14 aad). Dugsiga sarena waxaa dhigaya qodobada kala ah (§3aad  ilaa 10 aad).</p>
+<p type="listitem">Usoo gallida dugsiga sare  si ka duwan sida caadiga ah waxaa dhigaya qodobka (§1 aad xubbintiisa 6 aad).</p>
+<p type="listitem">Wakhti u kordhinta dugsiga sare waxaa dhigaya qodobada kala ah (§3aad ilaa 1aad xubbintiisa 5 aad.</p>
+<p><em type="bold">Shaqada </em></p>
+<p type="listitem">Wakaalada adeega barbaarinta nafsiga (pp-tjenesten) waxey wax ka qabataa, oo ey  bixisaa tallo iyo haggid ku saabsan ilmaha, dhalinyarada iyo dadka waaweyn ey ku  addagtahay dhibkana kasoo gaaro aqoon korarsiga. Tusaale dhibka soo gaara waa.</p>
+<p type="listitem">Luuqada iyo haddalka oo ku addag</p>
+<p type="listitem">Maadooyinka iyo guud ahaan aqoon korarsiga oo ku addag</p>
+<p type="listitem">Akhriska iyo qoraalka oo ku addag</p>
+<p type="listitem">Xisaabta oo ku addag</p>
+<p type="listitem">Af ka haddalka waxaan aheyn oo ku addag</p>
+<p type="listitem">Feejignaanta oo ku addag</p>
+<p type="listitem">Dhexgalka iyo dareenka oo ku addag</p>
+<p type="listitem">Hab dhaqanka oo ku addag</p>
+<p type="listitem">Araga iyo maqalka oo ku addag</p>
+<p><em type="bold">Xiriirka </em></p>
+<p>Ardayda dhaaftay 15 jir iyo waalidka, xanaanada caruurta, iskuulka iyo goobahakale, sida kalkaalisada caafimaadka ayaa lasoo xiriirikara oo weydiisankara tallo wakaalada adeega barbaarinta nafsiga (pp-tjenesten) hadii ey jiraan walwal laga qabbo ilmaha horumarkiisa ama aqoon korarsigiisa, waxaa lagala hadlikaraa wakaalada adeega barbaarinta nafsiga (pptjenesten) si qarsoon kahor intaan kiiska loo soo gudbin si caadi ah.</p>
+<p><em type="bold">Soo gudbinta </em></p>
+<p>Ka hor intuun kiiska soo gaarin wakaalada adeega barbaarinta nafsiga (pp-tjenesten), waa in la eegaa in iskuulkau uu tijaabiyay waxey qabankareen awoodooda. Marka ey quseyso ilmo aan gaarin xiligii iskuulka, waxaa la qadarinayaa baahida ilmaha si ka madaxbanaan waxa xanaanada caruurta ey qabatay.</p>
+<p type="listitem">Arinta waxaa loo gudbin karaa wakaalada adeega barbaarinta nafsiga(pp-tjenesten), si,ey  wax oga qabato, oo ey u qadariso hadii</p>
+<p type="listitem">Waalidka, xanaanada caruurta ama iskuulka ey ka walwalsanyihiin in ilmaha uu horumar u sameyneynin sidii laga rabay da,a ahaan.</p>
+<p type="listitem">Shaki ka jiro in ardaygu uusan wax ka faa,iideyn waxbarida</p>
+<p>Ardayga ama waalidka waxey iskuulka ku amrayaan inuu sameeyo baaritaanka loo baahanyahay si loo ogaado in ardaygu u baahanyahay in si qaas ah wax loo barro, iyo waxbarasho noocee ah uu ardayga u baahanyahay.</p>
+<p type="listitem">Macalimiinta</p>
+<p type="listitem">Waxey qadarinayaan in ardaygu u baahanyahay waxbarid qaas ah</p>
+<p type="listitem">Waxey la socodsiinayaan maamulaha iskuulka marka baahidaas jirto</p>
+<p>U gudbinta wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waa iney ka wadda shaqeeyaan xanaanada caruurta, iskuulka iyo waalidka. Waalidiinta iyo ardayga ka weyn (15 jir) waa iney ayagu ogoladaan u gudbinta wakaalada barbaarinta nafsiga (pp-tjenesten).</p>
+<p>Waa degmada/ gobolka kuwa go,aaminaya qaanuunada iyo wadada loo maray sida xanaanada caruurta/iskuulka ey ilmo ama arday ugu soo gudbinayaan wakaalada adeega barbaarinta nafsiga(pp-tjenesten). Sida caadiga ah waa in la buuxiyaa araajida gudbinta.</p>
+<p>Xanaanada caruuta/iskuulka waxey araajida ku lifaaqayaan warka ku saabsan barbaarinta nafsiga, oo tilmaamaya ilmaha/ardayga horumarkiisa, iyo waxqabad noocee ah ayaa leyskudayay.</p>
+<p>Waxii xog ah eek u saabsan gudbinta waxaad la xiriirikartaa degmada (xanaanada caruurta ama dugsiga hoose dhexe) ama gobolka kala xiriir (dugsiga sare.</p>
+<p><em type="bold">Ka shaqeynta arinta </em></p>
+<p><em type="bold">Baarista </em></p>
+<p>Marka wakaalada adeega barbaarinta nafsiga(pp-tjenesten) uu soo gaaro kiiska loo soo gudbiyay, waxaa caadi ah in cadeeyo waxa waalidka, iyadoo lagalla shaqeeynayo xanaanada caruurta ama iskuulka ey rabaan in laga caawiyo. Kiisaska intooda baddan waxey xambaarsanyihiin rabitaan ah in ey wakaalaga adeega barbaarinta nafsiga(pp-tjenesten) ey u sameyso qaddarin ku saleysan takhasuskooda, oo ku saabsan baarid iyo tallo.</p>
+<p type="listitem">Baaritaanka wuxuu ka koobnaan karaa</p>
+<p type="listitem">Im la hello waxa jirra iyo caawin ka imaneysa xanaanada cariirta ama iskuulka</p>
+<p type="listitem">Goobaha adeega bulshada ee kale waxey soo gudbiyeen, wadahaddal, u kuurgallid iyo ilmaha/ardayga oo la intixaamo</p>
+<p>Ilmaha aan gaarin xilliga iskuulka, waxaa baarista lalla xiriirinayaa baahida ilmaha</p>
+<p>Aradayga dhigta iskuulka waxaa baaristu ku saabsanaandoontaa ardayga aragtidiisa dheer ee aqoon korarsi iyo fursada iskuulka si uu u siinlahaa waxbarasho ku haboon ardayga, oo qey ka ah waxbarashada caadiga ah ee la hayo.</p>
+<p><em type="bold">La tallinta </em></p>
+<p>Baarista la sameeyay awgeed ayeey wakaalada adeega barbaarinta(pp-tjenesten) waxey soo gudbineysaa tallo qoraal ah, loo qaddariyay si takhasus leh ee lagu sameeyay baahiyooyinka qaaska ee ilmaha/ardayga.</p>
+<p type="listitem">Qaddarinta waxey</p>
+<p type="listitem">Muujineysaa in ilmaha/ardayga uu u baahanyahay barbarian qaas ah, taas oo uu dhigayo sharciga  waxbarashada, qoddobada kala ah §5aad ilaa 7aad, ama kan  waxbaridda qaaska ah qoddobada §5aad ilaa 1aad</p>
+<p type="listitem">Tallo siin ku saabsan caawin noocee ah iyo waxbarrid eyeey tahay in la siiyo.</p>
+<p>Hadii ilmuhu xaq u leeyahay barbarian qaas ah, oo caawisa sharciga suu dhigayo, qoddobada §5aad ilaa 7aad, la tallinta waalidkana waxey qeyb ka tahay adeega la hayo.</p>
+<p type="listitem">Ilmaha aan gaarin da,da waajibaadka waxbarasho, waxey tallada qoraalka ah ey  qortay  wakaalada adeega barbaarinta nafsiga(pp-tjeneste) ka koobnaaneysaa</p>
+<p type="listitem">Barbaarin gaara oo noocee ah ayaa ilmaha u sahleysa inuu u horumaro si,ey masuuliyad ku jirto</p>
+<p type="listitem">Ujeedo suurogallinkarta horumarka iyo aqoon korarsiga ilmaha</p>
+<p type="listitem">Ardayda dhigata iskuulka, waxey tallada qoraalka ah eek a timid wakaalada adeega  barbaarinta nafsiga(pp-tjeneste) ka koobnaaneysaa qaddarinta ah</p>
+<p type="listitem">In ardayga laga caawinkaro waxyaabaha ku addag ee qeybta ka ah waxbarashada caadiga ah ee la siiyo</p>
+<p type="listitem">Waxbarasho noocee ah ayaa keeneysa fursad waxbarasho oo masuul ah</p>
+<p type="listitem">Maxaa ka suurigalla u jeedada waxbarasho ee ardayga</p>
+<p>Wakaalada adeega barbaarinta nafsiga(pp-tjenesten) waxey la tashataa ardayga iyo/ama waalidka howsha qaddarinta takhasuska ah, waxeyna culeyska saareysaa sidey ayagu wax u arkaan.</p>
+<p type="listitem">Marka qaddarinta takhasuska leh(baaritaanka iyo tallada) ey diyaar yihiin, waxey waalidiinta</p>
+<p type="listitem">Ilmaha aan gaarin da,da waajibaadka waxbarasho ey u fasaxaan degmada/milkiilaha xanaanada caruurta in qaddarinta takhasuska ah gundhig looga dhigo si go,aan loo  gaaro, iyo fasixid si degmada/milkiilaha xanaanada caruurta ey u bilaabaan caawinta  wakaalada adeega barbaarinta nafsiga(pp-tjenesten) ey kulla talisay</p>
+<p type="listitem">Aradayda iskuulka ama(ardayda ka weyn 15jir) ey u fasaxaan milkiilaha iskuulka/iskuulka wuxuu  qaddarinta takhasuska ah ka dhigayaa gundhig si go,aan loo  gaaro, iyo in loo fasaxo milkiilaha iskuulka/iskuulkana u bilaabaan caawinta  wakaalada adeega barbaarinta nafsiga(pp-tjenesten) ey kulla talisay</p>
+<p><em type="bold">Barbaarinta dowliga ah </em></p>
+<p>Hadii loo baahdo waxey wakaalada adeega barbaarinta(pp-tjenesten) barbaarinta dowliga ah ka codsankartaa barbaariye qaasa oo dowli ah.</p>
+<p type="listitem">Barbaarinta dowliga ah</p>
+<p type="listitem">Waxey taageertaa si ilmaha, dhallinyarada iyo dadka waaweyn ee qabba baahi waxbarasho oo qaas ah ey u helaan adeeg fiican waafakhsana sharciga  waxbarashada, si,ey u noqdaan ka qeybqaatayaal firfircoon xagga tacliinta, shaqadda  iyo bulshadda</p>
+<p type="listitem">Horumarisaa tayadda iyo soo gudbinta aqoonta ku saabsan waxbaridda qaaska ah, iyo sinaan, u diyaarin waxbarasho soo dhaweyn leh</p>
+<p type="listitem">Waxey u taaganyihiin si loo soo saaro waxii barbarian qaasa maadooyinka dhanka maqalka, aragga, afka/haddalka, maskaxda oo dhaawac soo gaaro, adeyga aqoon  korarsiga qeybo baddan leh iyo dhagoole indhool</p>
+<p type="listitem">Aqoon u leedahay alaadaha waxbarasho ee caruurta, dhallinyarada iyo dadka waaweyn ey heyso baahihada waxbarasho ee qaaska ah</p>
+<p xml:lang="nob">Waxii xog dheeraad ah, f iiri www.statped.no</p>
+<p><em type="bold">Rugta waddanka ee waxbarashada dhaqamada baddan(NOFO) </em></p>
+<p>Ma sahlana marwalba in qaddarin lagu sameeyo waxa sababa adkaanshaha aqoon korarsiga marka laga hadlayo caruurta/ardayda leh luuqadaha laga tirro baddanyahay. Ma waxaa maqan fahanka luuqada,ahna dhibaatada ugu weyn, ama ma waxaa jirra sababo kale oo adkeynaya aqoon kororsiga?</p>
+<p type="listitem">Howsha rugta waddanka ee waxbarashada dhaqamada baddan waxaa kamid ah iney  taageerto</p>
+<p type="listitem">In siyaasada waxbarasho ee waddanka lagu shaqeeyo iyo in loo hirgaliyo si ilmaha, dhallinyarada iyo dadka waaweyn ey u helaan waxbarasho sinaan, tallagal, tayo iyo  soo dhaweyn leysaga midyahay leh</p>
+<p type="listitem">In la dhowro fikrada dhaqamada baddan xanaanada caruurta iyo waxbarashada asaasiga ah</p>
+<p type="listitem">In kor loo qaado tayada waxbarasho kuwa leh luuqadaha laga tiro baddanyahay iyo ka shaqey sameeysa soo dhawey, dhaqamo baddan waxbarasho leysaga mid yahay  xanaanada caruurta iyo waxbarashada asaasiga ah</p>
+<p>Macalimiinta, maamulayaasha iskuulka, xanaanada caruurta iyo milkiilayaasha iskuulka iyo shaqaalaha barbaarinta ee xanaanada caruurta waa udub dhexaadka howshan. Dhexda waxey ka koobnaandoontaa qeybta –UH/goob u adeegta tababarka macalinka si loo horumariyo tayada.</p>
+<p>Xog dheeraad ah, fiiri http://www.hioa.no/om-hioa/nafo</p>
 </body></document>
